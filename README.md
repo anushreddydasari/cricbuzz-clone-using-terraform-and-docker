@@ -70,3 +70,8 @@ We cloned this website in in just 5 days. While origional website has many funct
 ## Some Important Notes
 
 Sometime API does not work.
+
+
+##Docker image for this website can be found on my dockerhub profile : 
+
+docker pull anush777/cricbuzz-static:tagname
