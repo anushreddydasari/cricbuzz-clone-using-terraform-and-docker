@@ -37,11 +37,11 @@ resource "aws_security_group" "my_security_group" {
 
 # Create an EC2 instance
 resource "aws_instance" "my_ec2_instance" {
-  ami                    = "ami-06b21ccaeff8cd686" # Replace with your desired AMI ID
+  ami                    = "ami id" # Replace with your desired AMI ID
   instance_type         = "t2.micro"
   key_name              = "docker" # Ensure this key pair exists
   subnet_id             = aws_subnet.my_subnet.id
-  vpc_security_group_ids    = ["sg-0de0d25d82363a624"] # Use security_group_ids instead
+  vpc_security_group_ids    = ["vpc_security_group"] # Use security_group_ids instead
 
   user_data = <<EOF
 #!/bin/bash
