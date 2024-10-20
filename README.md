@@ -5,13 +5,6 @@ We tried to implement some basic functionalities and make a website that looks s
 
 
 
-## Demo
-
-Orginal:- https://www.cricbuzz.com/
-
-Cloned:-  https://cricbuzz-masai.netlify.app/
-
-
 ## Tech Stack
 
 
