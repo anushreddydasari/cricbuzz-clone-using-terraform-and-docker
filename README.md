@@ -27,7 +27,7 @@ We tried to implement some basic functionalities and make a website that looks s
 ## Screenshots
 
 - Landing Page
-![Landing Page]((https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Landing%20Page.png))
+![Landing Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Landing%20Page.png)
 
 - Live Score Page
 ![live-score](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Live%20Score.png)
