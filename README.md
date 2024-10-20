@@ -30,34 +30,34 @@ We tried to implement some basic functionalities and make a website that looks s
 ![Landing Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Landing%20Page.png)
 
 - Live Score Page
-![live-score](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Live%20Score.png)
+![live-score](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Live%20Score.png)
 
 - Cricket Schedule Page
-![Schedule Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
+![Schedule Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Schedule%20Page.png)
 
 - News Page
-![Archieves Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/News%20page.png)
+![Archieves Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/News%20page.png)
 
 - Schedule Page
 ![Plus Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
 
 - Video Page
-![Login Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/video%20page.png)
+![Login Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/video%20page.png)
 
 
 - Ranking Page
-![Login](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Ranking.png)
+![Login](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Ranking.png)
 ![Screenshot 2022-12-19 154219](https://user-images.githubusercontent.com/103638279/208412092-7891ea39-e9b5-4bdb-b470-a037000281ac.png)
 
 
 
 
 -Login Page
-![Payment](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
+![Payment](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Signup%20page.png)
 
 
 -Login Page 1
-![Account](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
+![Account](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Signup%20page.png)
 
 
 
