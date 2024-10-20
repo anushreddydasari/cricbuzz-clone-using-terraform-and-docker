@@ -39,7 +39,7 @@ We tried to implement some basic functionalities and make a website that looks s
 ![Archieves Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/News%20page.png)
 
 - Schedule Page
-![Plus Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
+![Plus Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/Schedule%20Page.png)
 
 - Video Page
 ![Login Page](https://github.com/anushreddydasari/cricbuzz-clone-using-terraform-and-docker/blob/master/cricbuzz/video%20page.png)
